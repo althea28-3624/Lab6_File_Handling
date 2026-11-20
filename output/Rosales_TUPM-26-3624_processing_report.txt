@@ -1,0 +1,12 @@
+PYTHON FILE_HANDLING REPORT
+--------------------------------------
+last name: Rosales
+Student ID: TUPM-26-3624
+Seed Digit: 4
+ID Sum: 23
+Verification Value: 165
+Dataset Sample Size: 73
+Valid Records: 73
+Average Global Active Power: 4.050
+JSON File: Rosales_TUPM-26-3624_record.json
+Backup File: Rosales_TUPM-26-3624_record.csv

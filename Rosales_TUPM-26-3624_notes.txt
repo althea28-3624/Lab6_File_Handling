@@ -1,0 +1,5 @@
+Student: Rosales
+Student ID: TUPM-26-3624
+Seed digit: 4
+ID sum: 23
+Verification value: 165
