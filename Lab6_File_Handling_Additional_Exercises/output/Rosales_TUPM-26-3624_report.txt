@@ -1,0 +1,22 @@
+WEB SERVER ACCESS LOG ANALYSIS
+----------------------------------------------
+Student: Rosales
+Records Processed: 1023
+Target Status Class: 2xx
+Records in target Class: 853
+
+Count per Status Code:
+200: 845
+206: 8
+
+Top 5 Most Requested URLs:
+GET /login.php HTTP/1.1 - 105 requests
+GET /home.php HTTP/1.1 - 91 requests
+GET /css/bootstrap.min.css HTTP/1.1 - 38 requests
+GET /css/normalize.css HTTP/1.1 - 38 requests
+GET /js/vendor/jquery-1.12.0.min.js HTTP/1.1 - 37 requests
+
+Filtered CSV: output\Rosales_TUPM-26-3624_filtered.csv
+Json Summary: output\Rosales_TUPM-26-3624_summary.json
+JSON Backup: backup\Rosales_TUPM-26-3624_summary.json
+Backup Verified: True
