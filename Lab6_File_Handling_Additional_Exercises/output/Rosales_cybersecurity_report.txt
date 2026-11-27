@@ -1,0 +1,33 @@
+CYBERSECURITY INCIDENT REPORT
+Student: Rosales
+Student ID: TUPM-26-3624
+Target Year: 2019
+
+Total Records in Dataset: 3000
+Incidents in Target Year: 263
+
+Incidents by Attack Type:
+  DDoS: 48
+  Malware: 43
+  Man-in-the-Middle: 44
+  Phishing: 45
+  Ransomware: 38
+  SQL Injection: 45
+
+Invalid Financial Loss Values: 0
+Total Financial Loss: $13134.69 million
+Average Financial Loss: $49.94 million
+
+TOP 5 INCIDENTS BY FINANCIAL LOSS
+1. Germany | Phishing | Healthcare | $99.97 million
+2. Russia | Man-in-the-Middle | Retail | $99.53 million
+3. UK | Phishing | Education | $99.45 million
+4. Germany | Ransomware | Government | $99.30 million
+5. Australia | SQL Injection | Government | $99.20 million
+
+OUTPUT FILES
+Filtered CSV: output\Rosales_cybersecurity_filtered.csv
+JSON Summary: output\Rosales_cybersecurity_summary.json
+JSON Backup: backup\Rosales_cybersecurity_summary.json
+Backup Verified: True
+Text Report: output\Rosales_cybersecurity_report.txt
