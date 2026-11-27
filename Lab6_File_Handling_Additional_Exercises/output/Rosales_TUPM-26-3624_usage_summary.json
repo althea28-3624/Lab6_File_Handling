@@ -1,0 +1,15 @@
+{
+    "Student": "Rosales",
+    "Student ID": "TUPM-26-3624",
+    "Operating System": "Android",
+    "Target Behavior Class": 5,
+    "Total Records": 700,
+    "Records Matching OS": 554,
+    "Records Matching Target Behavior": 105,
+    "Average Battery Drain (mAh/day)": 2693.06,
+    "Average Data Usage (MB/day)": 1984.77,
+    "Exported CSV Row Count": 105,
+    "Count Verified": true,
+    "Backup File": "Rosales_TUPM-26-3624_usage.csv",
+    "Backup File Size (bytes)": 3959
+}
